@@ -1,2 +1,2 @@
-# ED
-# Trabalhos e Estudos da aula de Estrutura de Dados 1 e 2
+# Estrutura de Dados 2
+Trabalhos de aula
